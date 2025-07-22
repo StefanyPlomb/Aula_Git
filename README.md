@@ -22,3 +22,8 @@
 
 -git push origin master|main
 
+## Clone, fetch e pull 
+- git clone (repositório link)
+- git fetch
+- git status
+- git pull
